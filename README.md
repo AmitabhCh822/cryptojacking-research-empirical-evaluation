@@ -59,7 +59,6 @@ cryptojacking-validation/
 ├── LICENSE
 ├── CITATION.cff
 ├── CONTRIBUTING.md
-├── PRISMA.png                       # Fig. 1 from the paper
 │
 ├── src/                             # Run scripts in order
 │   ├── 1_setup_and_download.py     # Directory setup + Kaggle download
@@ -88,8 +87,8 @@ cryptojacking-validation/
 ## Quick Start
 
 ```bash
-git clone https://github.com/AmitabhCh822/cryptojacking-validation.git
-cd cryptojacking-validation
+git clone https://github.com/AmitabhCh822/cryptojacking-research-empirical-evaluation.git
+cd cryptojacking-research-empirical-evaluation
 
 python -m venv venv
 source venv/bin/activate          # Windows: venv\Scripts\activate
@@ -185,10 +184,7 @@ Results are based on single stratified train-test splits to match how the primar
   title   = {Cryptojacking Validation: Replication Package},
   author  = {Chakravorty, Amitabh},
   year    = {2026},
-  version = {v1.0.0},
-  publisher = {Zenodo},
-  doi     = {10.5281/zenodo.18565269},
-  url     = {https://github.com/AmitabhCh822/cryptojacking-validation}
+  url     = {https://github.com/AmitabhCh822/cryptojacking-research-empirical-evaluation}
 }
 ```
 
