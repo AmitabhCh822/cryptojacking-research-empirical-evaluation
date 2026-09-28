@@ -11,8 +11,7 @@ This repository contains the code and reproducible pipeline for the empirical ev
 
 > **AI-Based Cryptojacking Detection in Cloud Environments: A Systematic Literature Review**  
 > *Amitabh Chakravorty*  
-> School of Information Technology, University of Cincinnati, USA  
-> Manuscript submitted to ACM
+> School of Information Technology, University of Cincinnati, USA
 
 The examination studies this issue from two perspectives. The first is a systematic literature review of 41 peer-reviewed research papers on AI-based cryptojacking detection in cloud and cloud-adjacent environments, organized around three research questions:
 
